@@ -10,5 +10,5 @@ int main()
        temp2=n-k;
        temp3=temp2*y;
        printf("%d",temp1+temp3);
-}
+    }
 }
